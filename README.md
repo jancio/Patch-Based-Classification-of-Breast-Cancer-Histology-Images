@@ -14,5 +14,5 @@ as an alternative to regular CNNs operating on patches.
 
 [1] Teresa Araújo, Guilherme Aresta, Eduardo Castro, José
 Rouco, Paulo Aguiar, Catarina Eloy, António Polónia, and
-Aurélio Campilho. Classification of breast cancer histology images using convolutional neural networks. PloS one,
+Aurélio Campilho. [Classification of breast cancer histology images using convolutional neural networks.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177544) PloS one,
 12(6):e0177544, 2017.
